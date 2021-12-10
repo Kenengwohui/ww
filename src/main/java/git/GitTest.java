@@ -4,7 +4,9 @@ public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git");
         System.out.println("hello git2");
-        System.out.println("hello got3");
+        System.out.println("hello git3");
         System.out.println("hello got4");
+        System.out.println("hot-fix test");
+
     }
 }
